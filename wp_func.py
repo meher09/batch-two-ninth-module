@@ -6,3 +6,7 @@ def wp_p(p_text):
 def wp_h2(heading_text):
     code = f"<!-- wp:heading --><h2>{heading_text}</h2><!-- /wp:heading -->"
     return code
+
+
+
+
